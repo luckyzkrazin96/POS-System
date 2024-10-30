@@ -1,4 +1,4 @@
-package com.ijse.dto;
+package com.ijse.pos.dto;
 
 import lombok.Getter;
 import lombok.Setter;

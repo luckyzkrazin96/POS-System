@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ijse.dto.StockRequestDto;
+import com.ijse.pos.dto.StockRequestDto;
 import com.ijse.pos.entity.Item;
 import com.ijse.pos.entity.Stock;
 import com.ijse.pos.service.ItemService;
